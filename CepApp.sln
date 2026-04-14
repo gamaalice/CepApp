@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CepApp", "CepApp.csproj", "{860DC289-7CE4-0043-6EF8-693F796D185D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{860DC289-7CE4-0043-6EF8-693F796D185D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{860DC289-7CE4-0043-6EF8-693F796D185D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{860DC289-7CE4-0043-6EF8-693F796D185D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{860DC289-7CE4-0043-6EF8-693F796D185D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAEDE1B7-8AED-4AB6-B0E8-E1A34FFB6EFD}
+	EndGlobalSection
+EndGlobal
