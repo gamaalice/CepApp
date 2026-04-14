@@ -16,6 +16,7 @@ Desktop application built with .NET WinForms that consumes the ViaCEP API and st
 - .NET WinForms
 - HttpClient
 - SQLite
+- API: viacep
 
 ## Run
 
@@ -27,6 +28,3 @@ dotnet publish -c Release -r win-x64 --self-contained true
 Executable:
 
 /bin/Release/net8.0-windows/win-x64/publish/CepApp.exe
-API
-
-https://viacep.com.br
